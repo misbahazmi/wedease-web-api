@@ -49,6 +49,5 @@
     "file-loader": "^6.2.0",
     "postcss-loader": "^8.1.1",
     "source-map-loader": "^5.0.0"
-  },
-  "packageManager": "yarn@4.9.1"
+  }
 }
